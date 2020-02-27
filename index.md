@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Example
+title: Example-yuemin
 ---
 
-# Example project
+# Example project-yuemin
 
 - [About the project](about)
 - [Publications](publications)
@@ -11,6 +11,6 @@ title: Example
 
 # News
 
-- Some event
+- Some event -yuemin
 - Another exciting event
 - More news

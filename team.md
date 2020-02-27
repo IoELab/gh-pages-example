@@ -5,14 +5,14 @@ title: Team
 
 # Person A
 
-Short bio ...
+Short bio of yuemin
 
 
 # Person B
 
-Short bio ...
+Short bio of yuemin1
 
 
 # Person C
 
-Short bio ...
+Short bio of yuemin2
